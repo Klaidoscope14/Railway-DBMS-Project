@@ -1,6 +1,3 @@
-# Book-Your-Tickets
-
-```markdown
 # Indian Railway Ticket Reservation System
 
 ## 1. Prerequisites & Environment
