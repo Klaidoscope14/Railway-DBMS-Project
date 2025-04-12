@@ -120,4 +120,3 @@ You now have a complete Indian Railway Ticket Reservation System in MySQL, with:
 - User-defined functions for various calculations
 
 Refer to the project’s main documentation or PDF report for detailed explanations of logic flows, advanced seat assignments, partial refunds, eWallet usage, and more.
-```
